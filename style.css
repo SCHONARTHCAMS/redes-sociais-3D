@@ -1,1 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+
+:root{
+    --cor-texto: #D9ABAB;
+    --cor-fundo: #C75B7A;
+    --cor-secundaria: #D9ABAB;
+    --cor-rosa:#921A40;
+
+}
