@@ -5,11 +5,12 @@
     --cor-fundo: #C75B7A;
     --cor-secundaria: #D9ABAB;
     --cor-beje: #F4D9D0;
+    --cor-preta: #000000;
     --font: "Updock", cursive;
 
 }
 body{
     background-color: var(--cor-fundo);
-    color: var(--cor-texto);
+    color: var(--cor-preta);
     font-family: var(--font);
 }
