@@ -1,9 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Updock&display=swap');
 
 :root{
     --cor-texto: #921A40;
     --cor-fundo: #C75B7A;
     --cor-secundaria: #D9ABAB;
     --cor-beje: #F4D9D0;
+    --font: "Updock", cursive;
 
+}
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: var(--font);
 }
