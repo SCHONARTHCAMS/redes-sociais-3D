@@ -14,3 +14,12 @@ body{
     color: var(--cor-preta);
     font-family: var(--font);
 }
+header{
+    background-color: var(--cor-texto);
+    text-align: center;
+}
+h1{
+    font-size:2rem;
+    color: var(--cor-preta)
+    font-height: 700;
+}
