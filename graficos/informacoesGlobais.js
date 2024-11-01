@@ -5,7 +5,7 @@ async function visualizarInformacoesGlobais() {
     const dados = await res.json()
     console.log(dados)
     const paragrafo = document.createElement('p')
-    paragrafo.classList.add('graficos-container__texto')
+    paragrafo.classList.add('graficos-container-texto')
 
     paragrafo.innerHTML = `Você sabia que o mundo /
     tem <span>${dados.total_pessoas_mundo}</span> /
